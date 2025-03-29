@@ -1,5 +1,5 @@
 # AI II Final code 
- Code for the AI II final project: New activation function for a smooth monotonic activation function
+ Code for the AI II final project: The new proposed activation function is a smooth monotonic error based function
 
 Unused code folders (These folders are testing files and are not necessary)
 * Previous code 
