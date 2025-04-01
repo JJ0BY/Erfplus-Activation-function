@@ -1,10 +1,6 @@
 # AI II Final code 
  Code for the AI II final project: The new proposed activation function is a smooth monotonic error based function
 
-Unused code folders (These folders are testing files and are not necessary)
-* Previous code 
-* Python code
-  
 Important folders (These folders are organized folders with comments)
 * Current code (Folder that stores code for running activation function, models and testing)
 * Data (Folder that stores MNIST and fashionMNIST data)
