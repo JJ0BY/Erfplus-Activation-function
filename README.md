@@ -7,3 +7,5 @@ Important folders (These folders are organized folders with comments)
 * Models (Folder stores all the previous models that was made for each experiment)
 * Plotting (Folder stores code for plotting and figures)
 * Results (Folder stores results of experiments as python pickle files)
+
+Paper related to the project: https://github.com/jrochacz/AI_2_Final_Proj/tree/main
