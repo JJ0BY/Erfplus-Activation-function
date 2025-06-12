@@ -8,4 +8,5 @@ Important folders (These folders are organized folders with comments)
 * Plotting (Folder stores code for plotting and figures)
 * Results (Folder stores results of experiments as python pickle files)
 
-Paper related to the project: [w](https://github.com/JJ0BY/Erfplus-Activation-function/blob/main/ErfPlus_Report%20(2).pdf)
+Paper related to the project: [ErfPlus: A Smooth Monotonic Activation Function
+Utilizing the Error Function](https://github.com/JJ0BY/Erfplus-Activation-function/blob/main/ErfPlus_Report%20(2).pdf)
