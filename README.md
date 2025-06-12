@@ -8,4 +8,4 @@ Important folders (These folders are organized folders with comments)
 * Plotting (Folder stores code for plotting and figures)
 * Results (Folder stores results of experiments as python pickle files)
 
-Paper related to the project: https://github.com/jrochacz/AI_2_Final_Proj/tree/main
+Paper related to the project: [https://github.com/jrochacz/AI_2_Final_Proj/tree/main](https://github.com/JJ0BY/Erfplus-Activation-function/blob/main/ErfPlus_Report%20(2).pdf)
