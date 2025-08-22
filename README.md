@@ -1,4 +1,4 @@
-# AI II Final project: ErfPlus A Smooth Monotonic Activation Function utilizing the Error Function
+# AI II Final project: ErfPlus, A Smooth Monotonic Activation Function utilizing the Error Function
 
  Code for the AI II final project: The new proposed activation function is a smooth monotonic error based function
 
